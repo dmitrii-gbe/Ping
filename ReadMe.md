@@ -83,7 +83,7 @@ The code is organized into several functions:
 
 ## Credits
 
-- Developed by **cinnamoa**, **eijhyon**, and **reynoldw**.
+- Developed by **cinnamoa**, **eijhyon**, and **reynoldw** School21 students.
 
 ## License
 
